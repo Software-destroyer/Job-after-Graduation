@@ -120,7 +120,8 @@ The Job Platform Smart Contract is deployed on the Ethereum network. The contrac
 0x1b2caf7495fe7af19c3448d98a3e4c28bf0ca0bba3dc68a52d540bdc951f5d1c
 ```
 
-![image](https://github.com/user-attachments/assets/41e75358-6691-4513-970a-38d7ba4e1f79)
+![image](https://github.com/user-attachments/assets/677afc18-46f4-4e79-92f2-eec3da47ebe4)
+
 
 
 ## Future Scope
