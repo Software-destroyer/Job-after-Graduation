@@ -36,7 +36,7 @@ The following flowchart illustrates the basic workflow of the Job Platform Smart
            v
 +-------------------------+
 |  Student Registration   |
-|  - Input: Student Details|
+|  Input: Student Details |
 +-------------------------+
            |
            v
@@ -53,7 +53,7 @@ The following flowchart illustrates the basic workflow of the Job Platform Smart
            v
 +-------------------------+
 |  Company Registration   |
-|  - Input: Company Details|
+|  Input: Company Details|
 +-------------------------+
            |
            v
@@ -70,7 +70,7 @@ The following flowchart illustrates the basic workflow of the Job Platform Smart
            v
 +-------------------------+
 |  Profile Retrieval      |
-|  - Input: Job Preferences|
+|  Input: Job Preferences|
 +-------------------------+
            |
            v
