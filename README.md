@@ -33,7 +33,7 @@ The following flowchart illustrates the basic workflow of the Job Platform Smart
 The Job Platform Smart Contract is deployed on the Ethereum network. The contract address for interacting with the deployed contract is:
 
 ```
-0xYourContractAddressHere
+0x1b2caf7495fe7af19c3448d98a3e4c28bf0ca0bba3dc68a52d540bdc951f5d1c
 ```
 
 Replace this placeholder with the actual address after deployment.
