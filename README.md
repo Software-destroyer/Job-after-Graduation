@@ -145,8 +145,9 @@ The Job Platform Smart Contract is deployed on the Ethereum network. The contrac
 
 For questions, feedback, or support regarding this project, please reach out to:
 
-- **Name**: [Tehjib Almas Junaid]
-- **Email**: [Royaltaj55@gmail.com]
-- **GitHub**: [https://github.com/Software-destroyer](https://github.com/Software-destroyer)
+- **Name**: Tehjib Almas Junaid
+- **Email**: Royaltaj55@gmail.com
+- **GitHub**: https://github.com/Software-destroyer
+(https://github.com/Software-destroyer)
 
 ---
